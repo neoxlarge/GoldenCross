@@ -1,0 +1,17 @@
+2022-09-23 15:23:02,028 - DEBUG - hello
+2022-09-23 15:23:03,523 - DEBUG - hello
+2022-09-23 15:23:36,040 - INFO - hello info
+2022-09-23 15:49:18,181 - DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+2022-09-23 15:49:19,011 - DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1609430400&period2=1663689600&interval=1h&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+2022-09-23 15:49:20,961 - DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+2022-09-23 15:49:21,233 - DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1609430400&period2=1663689600&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+2022-09-23 15:59:09,465 - DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+2022-09-23 15:59:10,212 - DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1609430400&period2=1663689600&interval=1h&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+2022-09-23 15:59:10,845 - DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+2022-09-23 15:59:11,121 - DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1609430400&period2=1663689600&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+2022-09-23 16:11:41,537 - INFO - test
+2022-09-23 16:11:43,539 - INFO - test
+2022-09-23 16:12:44,070 - DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+2022-09-23 16:12:44,669 - DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1609430400&period2=1663689600&interval=1h&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+2022-09-23 16:12:45,024 - DEBUG - Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+2022-09-23 16:12:45,287 - DEBUG - https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/TSLA?period1=1609430400&period2=1663689600&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
